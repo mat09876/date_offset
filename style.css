@@ -1,0 +1,16 @@
+.output {
+	width: 200px;
+	height: 200px;
+
+}
+
+.calndr__day{
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	border: 1px solid #ccc;
+	cursor: pointer;
+}
+.calndr__heading{
+	
+}
