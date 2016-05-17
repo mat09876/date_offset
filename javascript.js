@@ -38,7 +38,7 @@ var capitalize = function(str) {
 };
 
 
-var curMonth = 9;
+var curMonth = 5;
 var curYear = 2016
 
 //problem
